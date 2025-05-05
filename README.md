@@ -1,57 +1,61 @@
-<h1>Hi, I'm Rahina! <br/><a href="https://github.com/Rinaresa">Back End Developer</a>, <a href="https://www.linkedin.com/in/rahina-moro-ba88882aa">Student</a></h1>
+✅ Your GitHub Profile README (for Rinaresa)
 
-<p>A passionate backend developer currently growing my skills through the ALX backend development program. I love creating efficient, clean, and scalable server-side applications. When I’m not coding, I’m probably reading or out playing volleyball. 🏐📚</p>
-
----
-
-<h2>👩‍💻 Software Development Projects:</h2>
-
-- <b>Health Groove Admin System (Flask + SQL Server)</b>  
-  - Developed a backend hospital admin platform with user authentication, scheduling, and expiration tracking.
-  - Designed a fully relational SQL database and wrote advanced queries, procedures, and triggers.
-  - Added styling and dynamic interactivity using custom CSS and JS for a better admin experience.
-
-- <b>API Development & Automation (Flask + Postman)</b>  
-  - Created and tested RESTful APIs for backend communication and automation tasks using Python.
-
-- <b>Data Structures & Algorithms Practice (Python)</b>  
-  - Solving DSA problems to strengthen backend logic and performance efficiency.
+<h1 align="center">Hi, I'm Rahina Moro 👋</h1>
+<h3 align="center">A passionate Backend Developer & ALX Software Engineering Learner</h3>
 
 ---
 
-<h2>🌱 Currently Learning:</h2>
-
-- Flask and Django frameworks  
-- Database management with SQL Server  
-- RESTful API design and testing  
-- Deployment with Render and Railway  
+<p align="center">
+  <strong>“We cannot know the whys if we’re never allowed to ask.”</strong><br>
+  <em>This principle drives everything I build — systems that empower, inform, and give people a reason to understand the world around them.</em>
+</p>
 
 ---
 
-<h2>📺 You Might Like:</h2>
+ About Me
 
-- [How to get into Backend Dev from Scratch](#)
-- [My First Project Walkthrough (Coming soon)](#)
+- I'm currently a *Backend Development track learner at ALX Software Engineering Program*
+- I started software engineering because of my love for problem-solving, building impactful systems, and creating tech that empowers communities.
+- I am deeply inspired by the idea that *asking “why” leads to clarity, accountability, and innovation*.
+- My mission is to build tools and platforms that help people *understand, question, and interact with systems openly and fearlessly*.
+
+---
+ My Vision
+
+To become a backend engineer who builds secure, scalable, and human-centered applications — especially in the areas of:
+
+- Digital inclusion
+- Cultural preservation
+- Community empowerment
+- Transparent systems
 
 ---
 
+Skills & Tools
 
-[twitter]: https://twitter.com/_boresa  
-[linkedin]: https://www.linkedin.com/in/rahina-moro-ba88882aa  
-[instagram]: https://www.instagram.com/rinaresa.o/  
-[youtube]: #
+html
+Languages: Python | JavaScript | SQL | Bash  
+Frameworks: Flask | Django | Node.js  
+Databases: PostgreSQL | MySQL | MongoDB  
+Tools: Git | GitHub | Docker | Postman | Heroku  
+Other: REST APIs | Linux | OOP | Debugging | Security & Access Control  
 
----
+📁 Projects I’m Interested In
 
-<!--
-**YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m actively working on or looking to collaborate on:
+	•	Backend systems for tourism and cultural heritage
+	•	APIs for digital storytelling and gamification
+	•	Platforms that bridge underserved communities with technology
+	•	Tools that encourage open dialogue and civic participation
 
-Here are some ideas to get you started:
+🌐 Let’s Connect
+	•	GitHub: github.com/Rinaresa
+	•	Email: rahinamoro58@gmail.com
+	•	Fun fact: Always reading.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <em>“Tech isn’t just code — it’s a conversation. And I’m here to help build it.”</em>
+</p>
+
+
+
